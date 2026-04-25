@@ -74,15 +74,17 @@ Jupyter Notebook
 📁 Project Structure
 ├── 160123733013_Assignment2.ipynb   # Main notebook
 ├── README.md                        # Project documentation
+
 📈 Key Insights
 Strong positive correlation between GDP per capita and happiness
 Regional differences highlight inequality in well-being
 Some regions show consistent happiness, while others vary widely
 Factors like health, freedom, and social support significantly impact happiness
+
 🚀 How to Run
 Clone the repository
 Open the notebook in Jupyter Notebook / VS Code
 Run all cells step by step
-📌 Conclusion
 
+📌 Conclusion
 This project provides a comprehensive exploration of global happiness trends using data visualization techniques. It helps in understanding how economic, social, and personal factors influence well-being across different regions.
