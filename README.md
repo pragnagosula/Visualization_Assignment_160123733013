@@ -64,6 +64,7 @@ Create an annotated heatmap of average happiness components by:
 Rows → Region
 Columns → Year
 Discuss trends across time and regions.
+
 🛠️ Technologies Used
 Python 🐍
 Pandas
@@ -71,8 +72,11 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 📁 Project Structure
+
 ├── 160123733013_Assignment2.ipynb   # Main notebook
+
 ├── README.md                        # Project documentation
 
 📈 Key Insights
